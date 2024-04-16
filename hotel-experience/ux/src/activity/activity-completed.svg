@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="ic_check" transform="translate(-322 -468)">
+    <g id="Ellipse_115" data-name="Ellipse 115" transform="translate(322 468)" fill="#5ebc6f" stroke="#5ebc6f" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
+    </g>
+    <path id="Checkbox" d="M4.671,7.778,1,4.143l.871-.863,2.8,2.711L9.71,1l.871.863Z" transform="translate(326 474)" fill="#fff"/>
+  </g>
+</svg>

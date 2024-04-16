@@ -1,0 +1,23 @@
+{
+  "id": "th",
+  "label": "Touchpoint Hotel",
+  "spaces": [{
+      "id": "101",
+      "label": "Room #101",
+      "dnd": false,
+      "tags" : [ 
+        "6bb91878-5a7d-405b-9c8a-d45bdc63a2e9",
+        "6e1bac19-f139-4434-8973-79529147ee5b",
+        "2a95fd0a-58da-41fd-a865-1f6526d878b4",
+        "207382e5-62d6-4ec9-b480-8466304302a0", 
+        "70b4753e-d96f-4dd2-9341-c0b68dfacb07"
+      ]
+    },
+    {
+      "id": "102",
+      "label": "Room #102",
+      "dnd": true,
+      "tags": [ "ingress102", "interior102" ]
+    }
+  ]
+}

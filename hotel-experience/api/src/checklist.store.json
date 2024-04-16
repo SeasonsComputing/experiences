@@ -1,0 +1,299 @@
+[{
+    "id": "gs",
+    "label": "Guest Services",
+    "sections": []
+  },
+  {
+    "id": "hk",
+    "label": "Housekeeping Checklist",
+    "sections": [{
+        "id": "covid19",
+        "label": "COVID-19 Sanitization",
+        "type": "completed",
+        "items": [
+          {
+            "id": "electrostatic",
+            "label": "Electrostatic disinfection spray"
+          },
+          {
+            "id": "shower",
+            "label": "Clean the shower and bath tub then wipe down with a dry cloth"
+          },
+          {
+            "id": "bowl",
+            "label": "Scrub and disinfect the toilet bowl"
+          },
+          {
+            "id": "seat",
+            "label": "Clean and sanitize the toilet seat, lid, and handle"
+          },
+          {
+            "id": "sink",
+            "label": "Clean the vanity top and sink"
+          },
+          {
+            "id": "floors",
+            "label": "Clean floor tiles and grout"
+          },
+          {
+            "id": "coffee",
+            "label": "Clean the coffee maker"
+          },
+          {
+            "id": "microwave",
+            "label": "Clean the microwave"
+          },
+          {
+            "id": "mirrors",
+            "label": "Clean mirrors and glass surfaces"
+          },
+          {
+            "id": "telephone",
+            "label": "Wipe down the telephones"
+          }
+        ]
+      }, {
+        "id": "main",
+        "label": "Clean the Main Living Area",
+        "type": "completed",
+        "items": [{
+            "id": "windows",
+            "label": "If possible, open the windows and air out the room"
+          },
+          {
+            "id": "thermostat",
+            "label": "Check the thermostat, air conditioner, and lights to ensure they work properly"
+          },
+          {
+            "id": "bulbs",
+            "label": "Replace any flickering or burnt out bulbs"
+          },
+          {
+            "id": "drapes",
+            "label": "Test the drapes to make sure they slide easily"
+          },
+          {
+            "id": "walls",
+            "label": "Look over the walls and ceilings for dust or cobwebs"
+          },
+          {
+            "id": "dust",
+            "label": "Dust all appliances, fixtures, and furniture"
+          },
+          {
+            "id": "refrigerator",
+            "label": "Check the refrigerator for any items left behind by previous guests"
+          },
+          {
+            "id": "closet",
+            "label": "Ensure closet is stocked with hangers and luggage racks"
+          },
+          {
+            "id": "trash",
+            "label": "Remove trash from trash cans and fit with new lines"
+          },
+          {
+            "id": "vacuum",
+            "label": "Vacuum room"
+          },
+          {
+            "id": "deodorize",
+            "label": "Deodorize the room"
+          }
+        ]
+      },
+      {
+        "id": "bathroom",
+        "label": "Clean the Bathroom",
+        "type": "completed",
+        "items": [{
+            "id": "remove",
+            "label": "Remove any used towels"
+          },
+          {
+            "id": "leaks",
+            "label": "Look for any signs of water leaks from bathroom fixtures"
+          },
+          {
+            "id": "hairs",
+            "label": "Inspect the bathroom and remove and stray hairs"
+          },
+          {
+            "id": "trash",
+            "label": "Remove trash from trash cans and fit with new liners"
+          },
+          {
+            "id": "deodorize",
+            "label": "Deodorize the bathroom"
+          }
+        ]
+      },
+      {
+        "id": "amenities",
+        "label": "Replace All Amenities",
+        "type": "completed",
+        "items": [{
+            "id": "coffeeCups",
+            "label": "Coffee cups"
+          },
+          {
+            "id": "filters",
+            "label": "Coffees and filters"
+          },
+          {
+            "id": "tea",
+            "label": "Tea bags"
+          },
+          {
+            "id": "sugar",
+            "label": "Sugar, creamer, and stirrers"
+          },
+          {
+            "id": "ice",
+            "label": "Ice buckets and liners"
+          },
+          {
+            "id": "drinkCups",
+            "label": "Drinking cups"
+          },
+          {
+            "id": "stationary",
+            "label": "Stationary and pen"
+          },
+          {
+            "id": "pamphlets",
+            "label": "Hotel information pamphlets or booklets"
+          },
+          {
+            "id": "dryCleaning",
+            "label": "Dry cleaning bags"
+          },
+          {
+            "id": "shampoo",
+            "label": "Shampoo and conditioner"
+          },
+          {
+            "id": "soaps",
+            "label": "Soaps and lotion"
+          },
+          {
+            "id": "tissues",
+            "label": "Tissues"
+          },
+          {
+            "id": "tp",
+            "label": "Toilet paper"
+          },
+          {
+            "id": "towelsClothsMats",
+            "label": "Clean towels, washcloths, and bath mats"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fb",
+    "label": "Food and Beverage Inventory",
+    "warning": "* All fields are required",
+    "sections": [{
+        "id": "beverages",
+        "label": "Restock Beverages",
+        "type": "range",
+        "items": [{
+            "id": "coke",
+            "label": "Coke Cola"
+          },
+          {
+            "id": "sprite",
+            "label": "Sprite"
+          },
+          {
+            "id": "fiji",
+            "label": "Fiji Water"
+          }
+        ]
+      },
+      {
+        "id": "snacks",
+        "label": "Restock Snacks",
+        "type": "range",
+        "items": [{
+            "id": "peanuts",
+            "label": "Peanuts"
+          },
+          {
+            "id": "cashews",
+            "label": "Roasted Dry Cashew Nuts"
+          },
+          {
+            "id": "trail",
+            "label": "Trail Mix"
+          },
+          {
+            "id": "cookies",
+            "label": "Cookies with Cashew Nuts"
+          },
+          {
+            "id": "pringles",
+            "label": "Pringles"
+          },
+          {
+            "id": "goldfish",
+            "label": "Goldfish"
+          }
+        ]
+      },
+      {
+        "id": "candy",
+        "label": "Restock Candy",
+        "type": "range",
+        "items": [{
+            "id": "godiva",
+            "label": "Godiva"
+          },
+          {
+            "id": "snickers",
+            "label": "Snickers"
+          },
+          {
+            "id": "mnm",
+            "label": "M&Ms"
+          }
+        ]
+      },
+      {
+        "id": "alcohol",
+        "label": "Restock Alcohol",
+        "type": "range",
+        "items": [{
+            "id": "jack",
+            "label": "Jack Daniels"
+          },
+          {
+            "id": "heineken",
+            "label": "Heineken"
+          },
+          {
+            "id": "titos",
+            "label": "Tito's Vodka"
+          }
+        ]
+      },
+      {
+        "id": "sundry",
+        "label": "Restock General Items",
+        "type": "range",
+        "items": [{
+            "id": "map",
+            "label": "Map"
+          },
+          {
+            "id": "cityguide",
+            "label": "City Guide"
+          }
+        ]
+      }
+    ]
+  }
+]

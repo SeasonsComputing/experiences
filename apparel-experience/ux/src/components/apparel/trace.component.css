@@ -1,0 +1,15 @@
+.TraceLocation {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.TraceLocation.rightJustify {
+  justify-content: flex-end;
+}
+
+.TraceLocation > button {
+  height: 22px;
+  margin: 0 10px;
+}

@@ -1,0 +1,31 @@
+.LandingPage {
+  background-color: var(--app-background-color);
+  height: 100vh;
+  max-width: 450px;
+  min-width: 375px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  overflow: hidden;  
+}
+
+.LandingHeader {
+  margin: 10vh 0;
+}
+
+.LandingHeader > h2 {
+  color: var(--app-highlight-color);
+  font-size: 22px;
+  font-weight: var(--app-thin-font-weight);
+}
+
+.LandingHeader > h3 {
+  color: var(--app-bold-2nd-color);
+}
+
+.LandingPage > footer {
+  background-color: var(--app-background-color);
+  margin: 5vh 0;
+}

@@ -1,0 +1,115 @@
+{
+  "ArticleNumber": "180033",
+  "Size": "L",
+  "ArticleName": "T-Shirt",
+  "Color": "Almond",
+  "SKU": "19451211000022",
+  "GTIN": "19451211000022",
+  "ProductDescription": "This T-Shirt is lightweight and ultra soft with a comfortable fitting style. Featuring flatlocked seams, 4 way stretch and anti-odor technologies.",
+  "Price": 71,
+  "Currency": "USD",
+  "ProductURL": "https://tapwow.net",
+  "ImageURL": "assets/apparel/180033-T-Shirt-Almond-a.png",
+  "itemId": "303431711C5B0A8000002711",
+  "productionOrder": "PO2201102",
+  "care": {
+    "documentId": "180033_19451211000022",
+    "countryOfOrigin": "Made in Singapore",
+    "style": "180033",
+    "season": "Summer",
+    "gender": "Women",
+    "color": "Almond",
+    "instructions": [
+      "Machine wash with similiar colors",
+      "Do not wash with fabric softener"
+    ],
+    "labels": [
+      {
+        "character": "P",
+        "description": "Wash at or below 86°F"
+      },
+      {
+        "character": "C",
+        "description": "Non-Chlorine bleach"
+      },
+      {
+        "character": "t",
+        "description": "Tumble dry at low temperature"
+      },
+      {
+        "character": "e",
+        "description": "Do not iron"
+      },
+      {
+        "character": ";",
+        "description": "Do not dry-clean"
+      }
+    ],
+    "materials": [
+      {
+        "percentage": 0.875,
+        "name": "Pima Cotton"
+      },
+      {
+        "percentage": 0.06,
+        "name": "Seacell"
+      },
+      {
+        "percentage": 0.065,
+        "name": "Spandex"
+      }
+    ]
+  },
+  "trace": [
+    {
+      "eventTime": "2021-04-12T14:30:28.442+00:00",
+      "readPoint": "Point of Sale",
+      "businessLocation": "London Regent Street",
+      "geoLocation": {
+        "longitude": -0.1427799999999877,
+        "latitude": 51.51312759999999
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-04-08T23:55:16.279+00:00",
+      "readPoint": "Merchandising",
+      "businessLocation": "London Regent Street",
+      "geoLocation": {
+        "longitude": -0.1427799999999877,
+        "latitude": 51.51312759999999
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-04-07T15:14:41.176+00:00",
+      "readPoint": "Retail Facility",
+      "businessLocation": "London Regent Street",
+      "geoLocation": {
+        "longitude": -0.1427799999999877,
+        "latitude": 51.51312759999999
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-02-31T05:10:45.017+00:00",
+      "readPoint": "Distribution Facility",
+      "businessLocation": "Central Europe DC",
+      "geoLocation": {
+        "longitude": 8.084427000000005,
+        "latitude": 52.260360899999995
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-01-24T16:27:00.089+00:00",
+      "readPoint": "Manufacturing Facility",
+      "businessLocation": "Dongguan Clothing",
+      "geoLocation": {
+        "longitude": 113.69999999999999,
+        "latitude": 23.01599999999999
+      },
+      "businessTransactions": null
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "ArticleNumber": "180022",
+  "Size": "L",
+  "ArticleName": "Hoodie",
+  "Color": "Yellow",
+  "SKU": "19451211000011",
+  "GTIN": "19451211000011",
+  "ProductDescription": "This hoodie offers a casual, relaxed fit for everyday wear. With pill resistant air jet yarn, a pouch pocket and drawstrings, double stitching, and double lining.",
+  "Price": 89,
+  "Currency": "USD",
+  "ProductURL": "https://tapwow.net",
+  "ImageURL": "assets/apparel/180022-Hoodie-Yellow-a.png",
+  "itemId": "303431711C5B090000002711",
+  "productionOrder": "PO2201103",
+  "care": {
+    "documentId": "180022_19451211000011",
+    "countryOfOrigin": "Made in Singapore",
+    "style": "180022",
+    "season": "Fall",
+    "gender": "Women",
+    "color": "Yellow",
+    "instructions": [
+      "Machine wash with similiar colors",
+      "Do not wash with fabric softener"
+    ],
+    "labels": [
+      {
+        "character": "P",
+        "description": "Wash at or below 86°F"
+      },
+      {
+        "character": "C",
+        "description": "Non-Chlorine bleach"
+      },
+      {
+        "character": "t",
+        "description": "Tumble dry at low temperature"
+      },
+      {
+        "character": "e",
+        "description": "Do not iron"
+      },
+      {
+        "character": ";",
+        "description": "Do not dry-clean"
+      }
+    ],
+    "materials": [
+      {
+        "percentage": 0.85,
+        "name": "Cotton"
+      },
+      {
+        "percentage": 0.15,
+        "name": "Polyester"
+      }
+    ]
+  },
+  "trace": [
+    {
+      "eventTime": "2021-02-22T07:20:29.03+00:00",
+      "readPoint": "Point of Sale",
+      "businessLocation": "Vienna Am Heumarkt",
+      "geoLocation": {
+        "longitude": 16.377842600000008,
+        "latitude": 48.201763200000016
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-02-15T23:38:03.811+00:00",
+      "readPoint": "Merchandising",
+      "businessLocation": "Vienna Am Heumarkt",
+      "geoLocation": {
+        "longitude": 16.377842600000008,
+        "latitude": 48.201763200000016
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-02-14T11:03:46.655+00:00",
+      "readPoint": "Retail Facility",
+      "businessLocation": "Vienna Am Heumarkt",
+      "geoLocation": {
+        "longitude": 16.377842600000008,
+        "latitude": 48.201763200000016
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-02-06T19:17:42.515+00:00",
+      "readPoint": "Distribution Facility",
+      "businessLocation": "Central Europe DC",
+      "geoLocation": {
+        "longitude": 8.084427000000005,
+        "latitude": 52.260360899999995
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-01-05T14:24:18.35+00:00",
+      "readPoint": "Manufacturing Facility",
+      "businessLocation": "Shaoxing City Apparel",
+      "geoLocation": {
+        "longitude": 120.61987099999999,
+        "latitude": 30
+      },
+      "businessTransactions": null
+    }
+  ]
+}

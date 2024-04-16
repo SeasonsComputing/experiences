@@ -1,0 +1,121 @@
+{
+  "ArticleNumber": "180011",
+  "Size": "L",
+  "ArticleName": "Hoodie",
+  "Color": "Black",
+  "SKU": "19710208000011",
+  "GTIN": "19710208000011",
+  "ProductDescription": "This hoodie offers a casual, relaxed fit for everyday wear. With pill resistant air jet yarn, a pouch pocket and drawstrings, double stitching, and double lining.",
+  "Price": 89,
+  "Currency": "USD",
+  "ProductURL": "https://tapwow.net",
+  "ImageURL": "assets/apparel/180011-Hoodie-Black-a.png",
+  "itemId": "303431711C5B084000002711",
+  "productionOrder": "PO2201104",
+  "care": {
+    "documentId": "180011_19710208000011",
+    "countryOfOrigin": "Made in Singapore",
+    "style": "180011",
+    "season": "Fall",
+    "gender": "Men",
+    "color": "Black",
+    "instructions": [
+      "Machine wash with similiar colors",
+      "Do not wash with fabric softener"
+    ],
+    "labels": [
+      {
+        "character": "P",
+        "description": "Wash at or below 86°F"
+      },
+      {
+        "character": "C",
+        "description": "Non-Chlorine bleach"
+      },
+      {
+        "character": "t",
+        "description": "Tumble dry at low temperature"
+      },
+      {
+        "character": "e",
+        "description": "Do not iron"
+      },
+      {
+        "character": ";",
+        "description": "Do not dry-clean"
+      }
+    ],
+    "materials": [
+      {
+        "percentage": 0.85,
+        "name": "Cotton"
+      },
+      {
+        "percentage": 0.15,
+        "name": "Polyester"
+      }
+    ]
+  },
+  "trace": [
+    {
+      "eventTime": "2021-08-30T14:48:54.886+00:00",
+      "readPoint": "Smartphone",
+      "businessLocation": null,
+      "geoLocation": {
+        "longitude": 15.23490047454834,
+        "latitude": 47.2264404296875
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-04-11T13:39:20.927+00:00",
+      "readPoint": "Point of Sale",
+      "businessLocation": "London Regent Street",
+      "geoLocation": {
+        "longitude": -0.1427799999999877,
+        "latitude": 51.51312759999999
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-04-04T04:04:09.716+00:00",
+      "readPoint": "Merchandising",
+      "businessLocation": "London Regent Street",
+      "geoLocation": {
+        "longitude": -0.1427799999999877,
+        "latitude": 51.51312759999999
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-04-02T05:40:05.525+00:00",
+      "readPoint": "Retail Facility",
+      "businessLocation": "London Regent Street",
+      "geoLocation": {
+        "longitude": -0.1427799999999877,
+        "latitude": 51.51312759999999
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-02-26T07:08:02.07+00:00",
+      "readPoint": "Distribution Facility",
+      "businessLocation": "Central Europe DC",
+      "geoLocation": {
+        "longitude": 8.084427000000005,
+        "latitude": 52.260360899999995
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-01-27T15:53:37.361+00:00",
+      "readPoint": "Manufacturing Facility",
+      "businessLocation": "Shaoxing City Apparel",
+      "geoLocation": {
+        "longitude": 120.61987099999999,
+        "latitude": 30
+      },
+      "businessTransactions": null
+    }
+  ]
+}

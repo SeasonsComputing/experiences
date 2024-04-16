@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="ic_Cleanless_report" data-name="ic_Cleanless report" transform="translate(-16)">
+    <path id="Path_4" data-name="Path 4" d="M48.5,2.344V0h-15V2.344H26v29.5a8.271,8.271,0,0,0-5.51-2.064H16v2.713a7.276,7.276,0,0,0,2.3,5.3A8.1,8.1,0,0,0,23.926,40H56V2.344Zm-12.5,0H46V4.688H36ZM26,37.656H23.926A5.244,5.244,0,0,1,18.5,32.491v-.369h1.99A5.352,5.352,0,0,1,26,37.288Zm2.5,0v-.369a5.352,5.352,0,0,1,5.51-5.165H36v.369a5.244,5.244,0,0,1-5.426,5.165Zm25,0H36.344A7.265,7.265,0,0,0,38.5,32.491V29.779H34.01a8.271,8.271,0,0,0-5.51,2.064V4.687h5V7.031h15V4.687h5Z" fill="#705ebc"/>
+    <path id="Path_5" data-name="Path 5" d="M271,165h12.788v2.558H271Z" transform="translate(-233.972 -152.183)" fill="#705ebc"/>
+    <path id="Path_6" data-name="Path 6" d="M271,255h12.788v2.558H271Z" transform="translate(-233.972 -235.191)" fill="#705ebc"/>
+    <path id="Path_7" data-name="Path 7" d="M211,255h2.558v2.558H211Z" transform="translate(-178.775 -235.191)" fill="#705ebc"/>
+    <path id="Path_8" data-name="Path 8" d="M211,165h2.558v2.558H211Z" transform="translate(-178.775 -152.183)" fill="#705ebc"/>
+  </g>
+</svg>
