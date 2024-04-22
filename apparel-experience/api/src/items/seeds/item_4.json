@@ -1,0 +1,57 @@
+{
+  "ArticleNumber": "180044",
+  "Size": "46 2/3",
+  "ArticleName": "Skate Shoes",
+  "Color": "Black",
+  "SKU": "19710208000022",
+  "GTIN": "19710208000022",
+  "ProductDescription": "These unique shoes feature a mix of a recycled rubber bottom with a sleek designed hemp upper.",
+  "Price": 197.1,
+  "Currency": "USD",
+  "ProductURL": "https://tapwow.net",
+  "ImageURL": "assets/apparel/180044-Skate-Shoes-Black-b.png",
+  "itemId": "303431711C5B0C8000002711",
+  "productionOrder": "PO2201101",
+  "care": {
+    "documentId": "180044_19710208000022",
+    "countryOfOrigin": "Made in Singapore",
+    "style": "180044",
+    "season": "summer",
+    "gender": "Men",
+    "color": "Black",
+    "instructions": [],
+    "labels": [],
+    "materials": [
+      {
+        "percentage": 1,
+        "name": "Durable hemp fibers"
+      },
+      {
+        "percentage": 1,
+        "name": "Recyled rubber soles"
+      }
+    ]
+  },
+  "trace": [
+    {
+      "eventTime": "2021-02-06T14:54:39.794+00:00",
+      "readPoint": "Distribution Facility",
+      "businessLocation": "Central Europe DC",
+      "geoLocation": {
+        "longitude": 8.084427000000005,
+        "latitude": 52.260360899999995
+      },
+      "businessTransactions": null
+    },
+    {
+      "eventTime": "2021-01-05T15:15:09.431+00:00",
+      "readPoint": "Manufacturing Facility",
+      "businessLocation": "Guang Zhou Fashion Company",
+      "geoLocation": {
+        "longitude": 113.52540699999997,
+        "latitude": 23.193668000000002
+      },
+      "businessTransactions": null
+    }
+  ]
+}
