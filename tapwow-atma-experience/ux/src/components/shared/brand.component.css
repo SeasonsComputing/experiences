@@ -1,0 +1,8 @@
+.Brand {
+  position: relative;
+  text-align: center;
+}
+
+.Brand > img {
+  max-width: 154px; 
+}

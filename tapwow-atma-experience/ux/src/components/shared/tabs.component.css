@@ -1,0 +1,36 @@
+.Tabs {
+  overflow: hidden;
+  width: 100%;
+  user-select: none;
+  position: relative;
+  z-index: 99;
+}
+
+.TabsContainer {
+  min-width: 100%;
+  width: fit-content;
+  background-color: var(--app-background-light-color);
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  border-bottom: 2px solid var(--app-border-color);
+}
+
+.Tab {
+  top: 2px;
+  position: relative;
+  color: var(--app-bold-2nd-color);
+  padding: 10px 14px;
+  white-space: nowrap;
+  cursor: pointer;
+  border-bottom: 2px solid var(--app-border-color);
+}
+
+.Tab.selected {
+  top: 2px;
+  color: var(--app-highlight-color);
+  font-weight: var(--app-strong-font-weight);
+  border-bottom: 2px solid var(--app-highlight-color);
+}

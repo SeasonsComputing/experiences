@@ -1,0 +1,29 @@
+.LandingView {
+  background-color: var(--app-background-color);
+  height: 100vh;
+  max-width: 450px;
+  min-width: 375px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+  overflow: hidden;
+}
+
+.LandingHeader {
+  padding-top: 35%;
+  animation-duration: 1s;
+  animation-name: fadeInDownBig;
+}
+
+.LandingHeader h2 {
+  font-weight: var(--app-thin-font-weight);
+}
+
+.LandingView > footer {
+  background-color: var(--app-background-color);
+  height: 200px;
+  animation-duration: 2s;
+  animation-name: fadeInUpBig;
+}

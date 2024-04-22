@@ -1,0 +1,20 @@
+.DetailView {
+  background-color: var(--app-background-color);
+  max-width: 450px;
+  min-width: 320px;
+  margin: 0 auto;
+}
+
+.DetailView header {
+  padding: 50px 0 40px;
+  animation-delay: 1s;
+  animation-duration: 1.5s;
+  animation-name: lightSpeedInRight;
+}
+
+.DetailView main {
+  background-color: var(--app-background-color);
+  height: 100%;
+  animation-duration: 1s;
+  animation-name: fadeInUp;
+}

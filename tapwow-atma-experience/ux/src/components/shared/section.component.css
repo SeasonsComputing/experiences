@@ -1,0 +1,41 @@
+.Section {
+  padding: 0 var(--app-gutter-size);
+}
+
+.SectionHeading {
+  padding: 0 var(--app-gutter-size);
+  border-left: 4px solid var(--app-bold-color);
+}
+
+.SectionContent {
+  padding: 0 var(--app-gutter-size);
+  border-left: 3px solid var(--app-border-color);
+  padding-bottom: 34px;
+}
+
+.SectionContent p {
+  padding: 10px 0;
+}
+
+.Subsection {
+  text-align: right;
+  border-left: 3px solid var(--app-border-color);
+}
+
+.SubsectionHeading {
+  padding: 0 var(--app-gutter-size);
+  border-right: 3px solid var(--app-bold-2nd-color);
+}
+
+.SubsectionHeading h2 {
+  padding-bottom: 0;
+}
+
+.SubsectionContent {
+  padding: 0 var(--app-gutter-size) 34px;
+  border-right: 3px solid var(--app-border-color);
+}
+
+.SubsectionContent h3 {
+  padding-bottom: 0;
+}
